@@ -1,23 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>brUSA</title>
 
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<head>
+    <meta charset="UTF-8">
+    <title>brUSA</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link rel="stylesheet" href="grayscale.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANiTNnqGnd6RBhUylmCbKiyNONnEipbS8"></script>
+<script type="text/javascript" src="jquery.googlemap.js"></script>
+<script type="text/javascript" src="locationpicker.jquery.js"></script>
 
 	<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
 
 	<link rel="stylesheet" href="grayscale.css">
 	
+
 </head>
+
 <body>
+    <div class="container">
+        <h1 class="page-header brand-heading">brUSA</h2>
 
-	<div class="container">
-
-		<h1 class="page-header brand-heading">brUSA</h2>
-
-		<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
 
         <div class="container">
             <div class="navbar-header">
@@ -46,6 +53,35 @@
            
         </div>
        
+        </nav>
+
+        <br>
+        <br>
+
+        <p>A comprehensive list of US breweries. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis inventore architecto tempore molestias ipsam reprehenderit pariatur accusantium, ducimus asperiores quasi.</p>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+        <div class="row">
+
+            <h2 class="col-md-12 text-center">Type in your favorite city and click the circle button below.</h2>
+              <form>
+                    <div class="col-md-3"></div>
+                        <div class="form-group row col-md-6">
+                          <input type="text" class="form-control input-lg" id="searchResults" placeholder="City, State">
+                        </div>
+                    <div class="col-md-3"></div>
+              </form>
+        </div>
+
+        <header class="intro">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <a href="#map" class="btn btn-circle page-scroll" id = "addLocation" type= "submit" value = "submit">
     	</nav>
 
     	<br>
@@ -76,11 +112,11 @@
                         <a href="#map" id="searchButton" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
-                   	</div>
-        		</div>
-   		 </header>
+                    </div>
+                </div>
+         </header>
 
-	</div>
+    </div>
 
 
 	<div class="container">
@@ -89,5 +125,9 @@
 	</div>
 	
 
+
+    <div id="map"></div>
+    
+<script src="logic.js"></script>
 </body>
 </html>
