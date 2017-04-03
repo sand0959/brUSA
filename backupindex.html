@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>brUSA</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link rel="stylesheet" href="grayscale.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANiTNnqGnd6RBhUylmCbKiyNONnEipbS8"></script>
+<script type="text/javascript" src="jquery.googlemap.js"></script>
+<script type="text/javascript" src="locationpicker.jquery.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-header brand-heading">brUSA</h2>
+
+        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+            </div>
+
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#download">Cats</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+           
+        </div>
+       
+        </nav>
+
+        <br>
+        <br>
+
+        <p>A comprehensive list of US breweries. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis inventore architecto tempore molestias ipsam reprehenderit pariatur accusantium, ducimus asperiores quasi.</p>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+        <div class="row">
+
+            <h2 class="col-md-12 text-center">Type in your favorite city and click the circle button below.</h2>
+              <form>
+                    <div class="col-md-3"></div>
+                        <div class="form-group row col-md-6">
+                          <input type="text" class="form-control input-lg" id="searchResults" placeholder="City, State">
+                        </div>
+                    <div class="col-md-3"></div>
+              </form>
+        </div>
+
+        <header class="intro">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <a href="#map" class="btn btn-circle page-scroll" id = "addLocation" type= "submit" value = "submit">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+         </header>
+
+    </div>
+
+    <div id="map"></div>
+    
+<script src="logic.js"></script>
+</body>
+</html>
