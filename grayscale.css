@@ -3,6 +3,10 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+ form {
+  opacity: 0.5;
+ }
 body {
   width: 100%;
   height: 100%;
@@ -10,7 +14,7 @@ body {
   color: #F7CA18;
   background-color: black;
 
-  background-image: url(img/brewery.jpg);
+  background-image: url(beer.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
