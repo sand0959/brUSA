@@ -1,6 +1,9 @@
 var mapKey = "AIzaSyANiTNnqGnd6RBhUylmCbKiyNONnEipbS8";
 var newLocationValue = '';
 var cityStateLocation = '';
+var csStringwithPlus = '';
+var breweryCity = '';
+
 
 
 function generateMap() {};
@@ -27,21 +30,33 @@ $('body').on('click', '#addLocation', function(event) {
 });
 
 
+
 var breweryKey = "464c2923de039584755184680e90203c";
-var breweryURL = "http://api.brewerydb.com/v2/beer/O3tmVI/breweries/?key="+breweryKey;
+var breweryURL = "http://api.brewerydb.com/v2/locations?key=464c2923de039584755184680e90203c&locality=durham";
 
 $('body').on('click', '#addLocation', function(event){
     event.preventDefault();
 
+    cityLocation = $("#searchBar").val();
+    city = cityLocation;
+    console.log(cityLocation);
+    console.log(city);
+
     $.ajax({
         url: breweryURL,
-        method: 'GET'
+        method: 'GET',
+        crossDomain: 'true',
+       headers: {
+            Accept : "application/json",
+                   'Access-Control-Allow-Origin': '*'
+               }
     })
     .done(function(brewery) {
 
-        console.log(breweryURL);
+        console.log(brewery.data);
+        console.log(csStringwithPlus);
+
     })
 
 });
-
 
