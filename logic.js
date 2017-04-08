@@ -1,3 +1,5 @@
+
+
 var mapKey = "AIzaSyANiTNnqGnd6RBhUylmCbKiyNONnEipbS8";
 var newLocationValue = '';
 var cityStateLocation = '';
@@ -53,7 +55,7 @@ $('body').on('click', '#addLocation', function(event){
     })
     .done(function(brewery) {
 
-        console.log(brewery.data);
+        console.log(brewery.data.longtitude);
         console.log(csStringwithPlus);
 
     })
