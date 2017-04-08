@@ -1,0 +1,877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"tr"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"highe",
+				"highest-bidder"
+			],
+			[
+				"highest-",
+				"highest-bidder"
+			],
+			[
+				"bidder",
+				"bidderPrice"
+			],
+			[
+				"high",
+				"highPrice"
+			],
+			[
+				"highest",
+				"highest-price"
+			],
+			[
+				"ini",
+				"initialBidder"
+			],
+			[
+				"error",
+				"errorObject"
+			],
+			[
+				"initial",
+				"initialValue"
+			],
+			[
+				"intial",
+				"initialValue"
+			],
+			[
+				"to",
+				"toDoArray"
+			],
+			[
+				"todo",
+				"toDoNumber"
+			],
+			[
+				"age",
+				"age"
+			],
+			[
+				"com",
+				"comment-display"
+			],
+			[
+				"email",
+				"email-display"
+			],
+			[
+				"name-",
+				"name-display"
+			],
+			[
+				"search",
+				"searchResult"
+			],
+			[
+				"result",
+				"resultsDiv"
+			],
+			[
+				"article",
+				"articleDiv"
+			],
+			[
+				"ar",
+				"articleDiv"
+			],
+			[
+				"resul",
+				"resultsDiv"
+			],
+			[
+				"Resul",
+				"resultsDiv"
+			],
+			[
+				"searc",
+				"searchResult"
+			],
+			[
+				"data-",
+				"data-animate"
+			],
+			[
+				"animal",
+				"animalDiv"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"ambul",
+				"ambulance"
+			],
+			[
+				"trivia",
+				"triviaQuestions"
+			],
+			[
+				"artist",
+				"artistName"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"movies",
+				"movies-view2"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"data",
+				"data-name"
+			],
+			[
+				"add",
+				"addedMovies"
+			],
+			[
+				"movie",
+				"movie-input"
+			],
+			[
+				"added",
+				"addedMovies"
+			],
+			[
+				"seco",
+				"secondRowTds"
+			],
+			[
+				"c",
+				"customer"
+			],
+			[
+				"band",
+				"bandArray"
+			],
+			[
+				"Band",
+				"band"
+			],
+			[
+				"defend",
+				"defenderIsHereCounter"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"nums",
+				"numbs"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"health",
+				"healthPoints"
+			],
+			[
+				"display",
+				"displayImage"
+			],
+			[
+				"image",
+				"image-holder"
+			],
+			[
+				"stop",
+				"stopSlideshow"
+			],
+			[
+				"star",
+				"startSlideshow"
+			],
+			[
+				"time",
+				"timeConverter"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"curr",
+				"currentTime"
+			],
+			[
+				"int",
+				"intervalId"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"targe",
+				"targetArray"
+			],
+			[
+				"le",
+				"letterUsed"
+			],
+			[
+				"generate",
+				"generateAnswerDiv"
+			],
+			[
+				"gener",
+				"generateHintAndAnswer"
+			],
+			[
+				"answer",
+				"answerDiv"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"minus",
+				"minus"
+			],
+			[
+				"pane",
+				"panel-body"
+			],
+			[
+				"first",
+				"firstNumber"
+			],
+			[
+				"small",
+				"smallerWeb"
+			],
+			[
+				"hangman",
+				"hangman-game"
+			],
+			[
+				"fridge",
+				"fridgeMagnet"
+			],
+			[
+				"fri",
+				"fridgeMagnet"
+			],
+			[
+				"attr",
+				"attr"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fire",
+				"fire"
+			],
+			[
+				"cap",
+				"captain-planet"
+			],
+			[
+				"gly",
+				"glyphicon-eye-close"
+			],
+			[
+				"gl",
+				"glyphicon"
+			],
+			[
+				"pal",
+				"panel-default"
+			],
+			[
+				"drink",
+				"drinkDiv"
+			],
+			[
+				"dri",
+				"drinkList"
+			],
+			[
+				"d",
+				"drink-options"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"dr",
+				"drinkList"
+			],
+			[
+				"is",
+				"isWorking"
+			],
+			[
+				"re",
+				"reWriteStats"
+			],
+			[
+				"Re",
+				"reWriteStats"
+			],
+			[
+				"Key",
+				"keyChoice"
+			],
+			[
+				"drive",
+				"driveAroundWorld"
+			],
+			[
+				"g",
+				"getTuneUp"
+			],
+			[
+				"btn",
+				"btn-custom1"
+			],
+			[
+				"cu",
+				"customcol1"
+			],
+			[
+				"custom",
+				"custom-btn1"
+			],
+			[
+				"min",
+				"mini-box"
+			],
+			[
+				"mi",
+				"mini-box"
+			],
+			[
+				"pull",
+				"pull-left"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"sideb",
+				"sidebar-custom"
+			],
+			[
+				"men",
+				"sidebar-menu-button"
+			],
+			[
+				"sidebar-",
+				"sidebar-menu-button"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"co",
+				"col-lg-3"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"bottom",
+				"bottom"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 215.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/balen/giphy-api/Giphy-API/assets/javascript/logic.js",
+		"/C/Users/balen/brUSA/backupindex.html",
+		"/C/Users/balen/brUSA/logic.js",
+		"/C/Users/balen/giphy-api/Giphy-API/index.html",
+		"/C/Users/balen/brUSA/index.html",
+		"/C/Users/balen/TriviaGame/index.html",
+		"/C/Users/balen/giphy-api/Giphy-API/assets/css/style.css",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/8-Slideshow/slideshow_solution/slideshow.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-27-2017-Content/02-Push/index.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-27-2017-Content/02-Push/logic.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-27-2017-Content/02-Push/style.css",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-27-2017-Content/02-Push/01-recent-user-with-set.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-27-2017-Content/04-MomentJS/momentjs-activity.html",
+		"/C/Users/balen/week-4-game/index.html",
+		"/C/Users/balen/TriviaGame/assets/javascript/app.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/08-codersbay-viewtracker/logic.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/08-codersbay-viewtracker/8-codersbay-view.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/05-mostrecentuser/5-recentuser.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/06-codersbay/6-codersbay.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/06-codersbay/logic.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/4-instructor-do-more-properties.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/02-clickbutton-complete/2-instructor-do-clickbutton-nocomments.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/Activity_2_-_Full_Comments.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/03-countdownbutton/3-student-do-downbutton.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/03-countdownbutton/logic.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/03-countdownbutton/logicOption2.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-25-2017-Content/01-clickbutton/1-instructor-do-clickbutton-fireconsole.html",
+		"/C/Users/balen/TriviaGame/assets/css/style.css",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-22-2017-Content/Activities/01-todolist-nopersistence/SOLVED/1-student-do-todolist-solution.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-22-2017-Content/Activities/03-localstorage-demo/3-instructor-do-localstorage.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-22-2017-Content/Activities/02-signin-nopersistence/2-student-do-signin-no-persistence.html",
+		"/C/Users/balen/Documents/main.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-22-2017-Content/Activities/06-cookies-demo/6-instructor-do-cookies-intro.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-22-2017-Content/Activities/07-signin-cookies/7-student-do-signin-cookies-solution.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-22-2017-Content/Activities/01-todolist-nopersistence/1-student-do-todolist.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-20-2017-Content/01-CatButton/01-cat-button-students.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-20-2017-Content/02-ButtonTriggeredAJAX/2-button-triggered-ajax-students.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-20-2017-Content/03-DynamicElements/3-dynamic-elements-students.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-20-2017-Content/04-PausingGifs/4-pausing-gifs-students.html",
+		"/C/Users/balen/Hangman-Game/index.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-15-2017-Content/02-Ajax_OMDB/multiple-ajax.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/- (1).html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/03-MovieButtonLayout/movie-button-layout-easier.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/04-LogMovieName/log-movie-name-starter.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/02-MovieJSONDump/2-movie-json-dump.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/07-SpotifyApp/spotify-app-starter.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/MovieAddHomework6cheatsheet.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/05-ClickJSON/click-json-starter.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-18-2017-Content/Unsolved/06-WorkingMovieApp/working-movie-app-easier.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/-.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-15-2017-Content/test.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-15-2017-Content/03-AJAX_to_HTML/3-ajax-to-html.html",
+		"/C/Users/balen/Coding Boot Camp/1-customer-object.html",
+		"/C/Users/balen/week-4-game/assets/javascript/game.js",
+		"/C/Users/balen/Downloads/6-InstructorMedia.zip",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-15-2017-Content/04-Giphy_API/4-giphy-api.html",
+		"/C/Users/balen/week-4-game/assets/css/style.css",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/bubble_sort/sortArray.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/fizz_buzz/fizzbuzz.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/bubble_sort/index.html",
+		"/C/Users/balen/Hangman-Game/assets/javascript/game.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/bash/questions.md",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/bubble_sort/sort.md",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/fizz_buzz/fizz_buzz.md",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/prime_checker/prime_checker.md",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/prime_checker/prime_checker.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-13-2017-Content/floats_box_model/assignment/CSS_1.png",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/7-Stopwatch/stopwatch_skeleton/stopwatch.html",
+		"/C/Users/balen/Hangman-Game/assets/css/style.css",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/8-Slideshow/slideshow_skeleton/slideshow.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/8-Slideshow/slideshow_skeleton/slideshow.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/2-This/this.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/6-Interval/interval.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/3-Timeout/timeout.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/7-Stopwatch/stopwatch_skeleton/stopwatch.js",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/8-Slideshow/slideshow_skeleton/loading.gif",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/1-CoinFlip/skeleton/coin-flip.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/4-Context/context.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/03-11-2017-Content/5-SimpleTimer/skeleton/simple-timer.html",
+		"/C/Users/balen/Hangman-Game/assets/javascript/hangmanpariprograming.html",
+		"/C/Users/balen/Hangman-Game/assets/javascript/GAME3pairPrograming.js",
+		"/C/Users/balen/Downloads/js-dissect.html",
+		"/C/Users/balen/Coding Boot Camp/Week6/March6/cobweb.html",
+		"/C/Users/balen/Documents/gitlab/02-17-Class-Content/02-06-2017-Content/3-MyFirstHTML/solution/my-first-html.html",
+		"/C/Users/balen/Coding Boot Camp/Week6/March6/jscalculator.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/2-FridgeGame/fridge_starter/fridge.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/captplanet.html",
+		"/C/Users/balen/Coding Boot Camp/Week6/March6/scopequiz.html",
+		"/C/Users/balen/Coding Boot Camp/Week6/March6/unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week6/March6/.gitignore",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/4-ScopeOne/Unsolved/lexical-scope1.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/5-ScopeTwo/Unsolved/lexical-scope2.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/6-ScopeThree/Unsolved/lexical-scope3.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/06.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/12.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/11.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/01.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/03.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/07.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/3-CrystalExample/02.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March 4/02-17-Class-Content-master-66cc267750c3c20e835e99e25a977e428ff027a7/03-04-2017-Content/2-FridgeGame/fridge_starter/fridge.png",
+		"/C/Users/balen/Hangman-Game/assets/css/reset.css",
+		"/C/Users/balen/Bootstrap-Portfolio/bsindex.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March1/trigger-random-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March1/drinklist-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March1/sandwich-click-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March1/jquery-drinklist-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week4/Feb25/rps-2.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/March1/3.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/Feb27/car-object-solved.html",
+		"/C/Users/balen/Coding Boot Camp/Week3/testweek3-2.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/Feb27/car-object-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/Feb27/my-first-functions-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/Feb27/superhero-logging-solved-with-functions.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/Feb27/loop-tv-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week5/calculator.html",
+		"/C/Users/balen/Bootstrap-Portfolio/bscontact.html",
+		"/C/Users/balen/Coding Boot Camp/Week4/Feb25/array-logs-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week4/Feb22/js-dissect.html",
+		"/C/Users/balen/Responsive-Portfolio/index.html",
+		"/C/Users/balen/Responsive-Portfolio/assets/css/style.css",
+		"/C/Users/balen/Responsive-Portfolio/portfolio.html",
+		"/C/Users/balen/Responsive-Portfolio/contact.html",
+		"/C/Users/balen/Coding Boot Camp/Week4/Feb25/zoo-loop-unsolved.html",
+		"/C/Users/balen/Coding Boot Camp/Week4/Feb25/my-first-loop.html",
+		"/C/Users/balen/Coding Boot Camp/Week4/Feb25/array-setting-unsolved.html",
+		"/C/Users/balen/Bootstrap-Portfolio/assets/css/style.css",
+		"/C/Users/balen/Bootstrap-Portfolio/bsportfolio.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thisImgDataAnimate",
+			"thisImgDataStill",
+			"country",
+			"giphyHolder",
+			"searchCountry",
+			"newCountryValue",
+			"countryArray",
+			"country",
+			"country-form",
+			"data-country",
+			"country-buttons",
+			"add-country",
+			"country-input",
+			"tvshows-buttons-container",
+			"country-input",
+			"\"<img class='center-block img-wrong' src='https://media.giphy.com/media/y8mThMjGBrQpG/200w_d.gif'>\"",
+			"clickSound.play",
+			"wait",
+			"toDoArray",
+			"timer-p",
+			"counter",
+			".mainArea",
+			"correctTally",
+			"thirtySeconds",
+			"initialScreen",
+			"incorrectChoiceDueToTimeOut",
+			"generateLoss",
+			"generateWin",
+			"selecterAnswer",
+			"userANswerChosen",
+			"selecterAnswer",
+			"questionCounter",
+			"correctAnswers",
+			"imageArray",
+			"answerArray",
+			"questionArray",
+			"timer",
+			"timerWrapper",
+			"buttons-view",
+			"health",
+			"p.health",
+			"victoryCounter",
+			"enemies",
+			"defenderIsHereCounter",
+			"paragraph",
+			"show-and-hide",
+			"vis-invis",
+			"show-and-hide",
+			"hero",
+			"heroArray",
+			"aP",
+			"j",
+			"removeDefeatedDefender",
+			"ap",
+			"hP",
+			"originalaPArray",
+			"name",
+			"currentpretender",
+			"attackPower",
+			"healthPoints",
+			"healthPointsArray",
+			"Villain",
+			"villain",
+			"Evil",
+			"evil",
+			"defenderOccupancyCounter",
+			"p.health",
+			"};",
+			"targetiv",
+			"sub-col-sm-3-offset-2\"",
+			"250px",
+			"lg",
+			"height: 150px;",
+			"contact"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ImageAnimate",
+			"ImageStill",
+			"searchShows",
+			"newTVshowValue",
+			"tvShowArray",
+			"data-shows",
+			"tvshow-buttons",
+			"add-tvshow",
+			"tvshow-input",
+			"timerTag",
+			"timeCounter",
+			".gameArea",
+			"correctResults",
+			"startTheGame",
+			"timeIsUp",
+			"incorrectChoice",
+			"correctChoice",
+			"userAnswerChosen",
+			"triviaQuestionCounter",
+			"correctTriviaAnswers",
+			"triviaAnswers",
+			"triviaImgs",
+			"triviaAnswers",
+			"triviaQuestions",
+			"movies-view",
+			"p-tag",
+			"vis-invis",
+			"band",
+			"bandArray",
+			"AP",
+			"r",
+			"removeDefeatedPretender",
+			"AP",
+			"HP",
+			"originalAPArray",
+			"currentPretender",
+			"aP",
+			"hP",
+			"HPArray",
+			"Pretender",
+			"pretender",
+			"defenderIsHereCounter"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "logic.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
