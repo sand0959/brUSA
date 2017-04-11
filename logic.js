@@ -1,3 +1,4 @@
+
 var mapKey = "AIzaSyANiTNnqGnd6RBhUylmCbKiyNONnEipbS8";
 var newLocationValue = '';
 var cityStateLocation = '';
@@ -6,6 +7,7 @@ var latitude = '';
 var coords = {};
 var cityName = '';
 var cityNameWithPlus = '';
+
 var brewlong = [];
 var brewlat = [];
 var breweryKey = "464c2923de039584755184680e90203c";
@@ -25,6 +27,8 @@ var config = {
 };
 firebase.initializeApp(config);
 var database = firebase.database();
+=======
+
 
 $('body').on('click', '#addLocation', function(event) {
     event.preventDefault();
@@ -79,6 +83,7 @@ $('body').on('click', '#addLocation', function(event) {
                     });
                     marker[i].index = i
                     marker[i].content = '<div id="iw_container">' + '<div class="iw_title">' + brewname + '</div>' + '<div class="iw_content">Address:' + brewaddy + '</div>' + '<div class="iw_content">' + '<a href= "' + brewweb + '"target=_blank"' + ' ">Website</a>' + '</div>' + '</div>';
+
 
                     google.maps.event.addListener(marker[i], 'click', function() {
                         infowindow.close();
