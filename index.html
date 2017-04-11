@@ -3,14 +3,32 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>brUSA</title>
+    <script type="text/javascript">
+    var BMCRum = {
+        startTime: new Date().getTime(),
+        token: "e14bf01a-bbe3-45c3-a6e9-fb5f9318d5fc",
+        appName: "brUSA"
+    };
+</script>
+<script type="text/javascript" src="https://eue.truesight.bmc.com/euem-1.0.0.min.js"></script>
+
+    <title>brewS.A.</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Stardos+Stencil" rel="stylesheet">
     <link rel="stylesheet" href="grayscale.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANiTNnqGnd6RBhUylmCbKiyNONnEipbS8"></script>
+<<<<<<< HEAD
     <script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js"></script>
 
+=======
+
+    <script type="text/javascript" src="jquery.googlemap.js"></script>
+    <script type="text/javascript" src="locationpicker.jquery.js"></script>
+    <!-- <script type="text/javascript" src="jquery.googlemap.js"></script> -->
+    <!-- <script type="text/javascript" src="locationpicker.jquery.js"></script> -->
+    <!-- <script type="text/javascript" src="initmap.min.js"></script> -->
+>>>>>>> e40d109ffe17e166711deb303953365e3db7f9ef
 </head>
 
 
@@ -18,7 +36,7 @@
     <div class="container">
         <div class="container page-header">
 
-            <h1 class="brand-heading">brUSA</h1>
+            <h1 id="brew">brew.</h1><h1 id="s">S.</h1><h1 id="a">A.</h1>
 
         
             <div class="brand-heading">
@@ -51,7 +69,7 @@
 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-5" >
-                        <a href="#map" id="addLocation" class="btn btn-circle page-scroll">
+                        <a href="googleMap.html" id="addLocation" class="btn btn-circle page-scroll" target="_blank">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
@@ -67,6 +85,8 @@
         </div>
 
     </div>
+
+
     
 <script src="logic.js"></script>
 </body>
